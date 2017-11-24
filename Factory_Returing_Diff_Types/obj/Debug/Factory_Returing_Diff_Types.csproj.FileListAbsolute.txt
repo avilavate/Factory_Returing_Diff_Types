@@ -1,0 +1,6 @@
+C:\Users\avate avil\NG2\patterns\Factory_Returing_Diff_Types\bin\Debug\Factory_Returing_Diff_Types.exe.config
+C:\Users\avate avil\NG2\patterns\Factory_Returing_Diff_Types\bin\Debug\Factory_Returing_Diff_Types.exe
+C:\Users\avate avil\NG2\patterns\Factory_Returing_Diff_Types\bin\Debug\Factory_Returing_Diff_Types.pdb
+C:\Users\avate avil\NG2\patterns\Factory_Returing_Diff_Types\obj\Debug\Factory_Returing_Diff_Types.csproj.CoreCompileInputs.cache
+C:\Users\avate avil\NG2\patterns\Factory_Returing_Diff_Types\obj\Debug\Factory_Returing_Diff_Types.exe
+C:\Users\avate avil\NG2\patterns\Factory_Returing_Diff_Types\obj\Debug\Factory_Returing_Diff_Types.pdb

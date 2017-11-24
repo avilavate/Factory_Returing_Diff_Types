@@ -1,0 +1,16 @@
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\obj\Debug\MSTests.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\obj\Debug\MSTests.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\MSTests.UnitTest.dll
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\MSTests.UnitTest.pdb
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\Factory_Returing_Diff_Types.exe
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\Factory_Returing_Diff_Types.pdb
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\Factory_Returing_Diff_Types.exe.config
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\obj\Debug\MSTests.UnitTest.dll
+C:\Users\avate avil\NG2\patterns\MSTests.UnitTest\obj\Debug\MSTests.UnitTest.pdb
