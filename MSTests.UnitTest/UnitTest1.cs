@@ -24,5 +24,15 @@ namespace MSTests.UnitTest
 
         }
 
+        [TestMethod]
+
+        public void Testing_If_We_Can_Return_Concrete_types()
+        {
+
+            TV myTV = ElectronicsFactory.Factory("TV") as TV;
+            myTV.Play();
+            Assert.AreEqual(myTV.CircuirError, null);
+        }
+
     }
 }
